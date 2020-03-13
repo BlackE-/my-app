@@ -1,6 +1,7 @@
-All the scrips are going to accumulate on each class.
-1 - Create app (2020 - 03 - 10)
-2 - Components SMART / DUMP ( 2020 - 03 - 12)
+## React Centraal
+All the scrips are going to accumulate on each class.<br />
+2020 - 03 - 10 / 1 - Create app<br />
+2020 - 03 - 12 / 2 - Components SMART - DUMB<br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
