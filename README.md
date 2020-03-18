@@ -2,6 +2,8 @@
 All the scrips are going to accumulate on each class.<br />
 2020 - 03 - 10 / 1 - Create app<br />
 2020 - 03 - 12 / 2 - Components SMART - DUMB<br />
+2020 - 03 - 17 / 3 - Components Class & Function<br />
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
